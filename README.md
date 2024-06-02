@@ -24,11 +24,12 @@ This project is a **Movie Recommendation System** using collaborative filtering.
 ### 5. Example Usage
 - The function `recommend_movies` is used to get movie recommendations for a specific user.
 
-## Usage
-To use the Movie Recommendation System, follow these steps:
 
-1. **Mount Google Drive**:
+**NOTE: To Upload File from Google Drive**:
    ```python
    from google.colab import drive
    drive.mount('/content/drive')
+   from google.colab import files
+   uploaded = files.upload()
+   File_Name= pd.read_csv('/content/File_Name.csv')
    
