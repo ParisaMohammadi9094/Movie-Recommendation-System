@@ -2,6 +2,9 @@
 
 This project is a **Movie Recommendation System** using collaborative filtering. The system recommends movies to users based on their previous ratings and the ratings of similar users. This project demonstrates data preprocessing, model training using matrix factorization, and evaluation.
 
+
+![A movie recomme e5ccc112-8b80-4204-9867-9a4657d9cd48](https://github.com/ParisaMohammadi9094/Movie-Recommendation-System/assets/18152407/3820cbb1-0803-48ba-a153-5389677b164d)
+
 ## Steps
 
 ### 1. Data Collection
